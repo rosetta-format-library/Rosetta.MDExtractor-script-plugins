@@ -2,7 +2,7 @@
 *  ExifToolMDExtractorPlugin - v1.2
 *  ExifToolMDExtractorPluginPDF - v2.2
 *  ExifToolMDExtractorPluginOfficeXML - v1.3
-*  MediaInfoMDExtractorPlugin - v1.1
+*  MediaInfoMDExtractorPlugin - v1.3
 *  MediaInfoMDExtractorPlugin-Video - v1.4
 *  MediaInfoMDExtractorPlugin-Audio - v1.5
 
