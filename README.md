@@ -3,12 +3,12 @@ Plugins below were bundled to Rosetta 8.3
 
 ExifTool and MediaInfo had updated \PLUGIN-INF\properties.xml 'metadata_ExifToolMDExtractorPlugin.xml' and 'metadata_MediaInfoMDExtractorPlugin.xml' files in \PLUGIN-INF\ inside the plugin updated (element <pl:version> value), so the plugins actually get deployed over the old version you have in your instance of Rosetta
 
-*  ExifToolMDExtractorPlugin - v1.3
-*  ExifToolMDExtractorPluginPDF - v2.3
-*  ExifToolMDExtractorPluginOfficeXML - v1.4
-*  MediaInfoMDExtractorPlugin - v1.4
-*  MediaInfoMDExtractorPlugin-Video - v1.5
-*  MediaInfoMDExtractorPlugin-Audio - v1.6
+*  ExifToolMDExtractorPlugin - v2.4
+*  ExifToolMDExtractorPluginPDF - v2.4
+*  ExifToolMDExtractorPluginOfficeXML - v2.4
+*  MediaInfoMDExtractorPlugin - v2.0
+*  MediaInfoMDExtractorPlugin-Video - v2.0
+*  MediaInfoMDExtractorPlugin-Audio - v2.0
 
 
 
